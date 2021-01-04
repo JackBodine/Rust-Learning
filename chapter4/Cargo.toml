@@ -1,5 +1,5 @@
 [package]
-name = "ownership"
+name = "chapter4"
 version = "0.1.0"
 authors = ["Jack Bodine <JackTaylorBodine@gmail.com>"]
 edition = "2018"
